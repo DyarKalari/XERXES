@@ -1,8 +1,14 @@
 # XERXES
-XERXES the most powerful DoS tool
-Download the File xerxes.c to your Desktop
-Open Terminal and type these commands
-cd Desktop
-gcc xerxes.c -o xerxes
-USAGE : ./xerxes www.example.com 80
 # Dyar Kalari
+XERXES the most powerful DoS tool
+<br>
+Download the File xerxes.c to your Desktop
+<br>
+Open Terminal and type these commands
+<br>
+cd Desktop
+<br>
+gcc xerxes.c -o xerxes
+<br>
+USAGE : ./xerxes www.example.com 80
+
